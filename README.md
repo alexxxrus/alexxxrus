@@ -1,9 +1,5 @@
 ### Привет! 👋 Меня зовут Алекс / Hi there! I'm Alex
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_nickname)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/your_channel)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your_username)
-
 ---
 
 ### 👩‍💻 Обо мне / About me
@@ -14,28 +10,10 @@
 **English:**  
 I'm a Python developer specializing in bots for Discord and Telegram. I write clean, asynchronous code that's easy to maintain and scale. I enjoy automating routine tasks and adding interactivity to chats.
 
-- 🔭 **Сейчас работаю над / Currently working on:**  
-  Telegram-бот для управления задачами в команде / A Telegram bot for team task management
-
-- 🌱 **Изучаю / Learning:**  
-  Глубокое погружение в aiogram 3.x и Discord.py 2.x / Deep dive into aiogram 3.x and Discord.py 2.x
-
-- 🎯 **Цель / Goal:**  
-  Создать бота с искусственным интеллектом для модерации контента / Build an AI-powered moderation bot
-
-- 💬 **Спроси меня о / Ask me about:**  
-  Асинхронное программирование, создании ботов, работе с API / Asynchronous programming, bot development, API integration
-
 ---
 
 ### 📕 Мои проекты / My projects
-
-*Здесь можно указать ссылки на репозитории с ботами, которые ты сделал.*  
-*Here you can list links to your bot repositories.*
-
-- [**🤖 Discord Moderation Bot**](ссылка) — автоматическая модерация, логи, антиспам (дискорд)  
-- [**📦 Telegram Shop Bot**](ссылка) — магазин с корзиной и приёмом платежей (телеграм)  
-- [**🎮 Mini‑game Bot**](ссылка) — игры прямо в чате (подойдёт для обоих платформ)
+-
 
 ---
 
@@ -54,14 +32,9 @@ I'm a Python developer specializing in bots for Discord and Telegram. I write cl
 
 ### 🔥 Моя статистика / My stats
 
-| <a href="https://github.com/your_username"><img align="center" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github.com/your_username"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark&hide_border=true" alt="GitHub streak" /></a> |
+| <a href="https://github.com/alexxxrus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexxxrus&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github.com/alexxxrus"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxxrus&theme=dark&hide_border=true" alt="GitHub streak" /></a> |
 | ------------- | ------------- |
 
-<a href="https://github.com/your_username">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark&hide_border=true" />
+<a href="https://github.com/alexxxrus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxxrus&layout=compact&theme=dark&hide_border=true" />
 </a>
-
----
-
-⭐️ *Спасибо, что заглянул! Буду рад звёздочкам и конструктивным issue.*  
-⭐️ *Thanks for stopping by! Stars and constructive issues are always welcome.*****
