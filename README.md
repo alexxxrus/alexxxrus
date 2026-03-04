@@ -5,10 +5,10 @@
 ### 👩‍💻 Обо мне / About me
 
 **Русский:**  
-Я Python-разработчик, специализируюсь на создании ботов для Discord и Telegram. Пишу чистый, асинхронный код, который легко поддерживать и масштабировать. Мне нравится автоматизировать рутину и добавлять интерактив в чаты.
+Я начинающий разработчик, который любит разбираться в новых технологиях и писать код. В данный момент активно изучаю Python, но также пробую себя в других языках — JavaScript, Go, Rust. Мне важно писать чистый и понятный код, даже если это небольшие учебные проекты. Постоянно учусь новому и стараюсь делать свои проекты лучше.
 
 **English:**  
-I'm a Python developer specializing in bots for Discord and Telegram. I write clean, asynchronous code that's easy to maintain and scale. I enjoy automating routine tasks and adding interactivity to chats.
+I'm a beginner developer who enjoys exploring new technologies and writing code. Currently I'm diving deep into Python, but I also experiment with other languages like JavaScript, Go, and Rust. I believe in writing clean and readable code, even for small learning projects. I'm constantly learning and trying to improve my projects.
 
 ---
 
