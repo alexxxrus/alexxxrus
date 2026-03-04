@@ -29,12 +29,3 @@ I'm a Python developer specializing in bots for Discord and Telegram. I write cl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 🔥 Моя статистика / My stats
-
-| <a href="https://github.com/alexxxrus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexxxrus&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github.com/alexxxrus"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexxxrus&theme=dark&hide_border=true" alt="GitHub streak" /></a> |
-| ------------- | ------------- |
-
-<a href="https://github.com/alexxxrus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxxrus&layout=compact&theme=dark&hide_border=true" />
-</a>
