@@ -13,7 +13,6 @@ I'm a Python developer specializing in bots for Discord and Telegram. I write cl
 ---
 
 ### 📕 Мои проекты / My projects
--
 
 ---
 
